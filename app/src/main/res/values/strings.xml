@@ -1,0 +1,9 @@
+<resources>
+	<string name="app_name">GlassCards</string>
+
+	<string name="txt_text">This is the main text.</string>
+	<string name="txt_footnote">This is the footnote</string>
+	<string name="txt_timestamp">just now</string>
+	<string name="txt_heading">Joe Lastname</string>
+	<string name="txt_subheading">Mountain View, California</string>
+</resources>
